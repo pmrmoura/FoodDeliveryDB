@@ -1,0 +1,22 @@
+!SESSION 2020-09-15 17:47:41.818 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 2 0 2020-09-15 17:48:23.745
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-09-15 17:48:23.745
+!MESSAGE Cannot bind to an undefined command: plug-in='br.ufpe.cin.eercase.diagram', id='eer.diagram.updateDiagram'
+!SESSION 2020-09-15 17:49:14.027 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 2 0 2020-09-15 17:49:20.155
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-09-15 17:49:20.155
+!MESSAGE Cannot bind to an undefined command: plug-in='br.ufpe.cin.eercase.diagram', id='eer.diagram.updateDiagram'
